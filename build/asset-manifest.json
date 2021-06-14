@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/food-app-cart/static/css/main.dede1226.chunk.css",
+    "main.js": "/food-app-cart/static/js/main.bcfefb8e.chunk.js",
+    "main.js.map": "/food-app-cart/static/js/main.bcfefb8e.chunk.js.map",
+    "runtime-main.js": "/food-app-cart/static/js/runtime-main.cd4bd878.js",
+    "runtime-main.js.map": "/food-app-cart/static/js/runtime-main.cd4bd878.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/food-app-cart/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.1946c503.chunk.js": "/food-app-cart/static/js/2.1946c503.chunk.js",
+    "static/js/2.1946c503.chunk.js.map": "/food-app-cart/static/js/2.1946c503.chunk.js.map",
+    "index.html": "/food-app-cart/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/food-app-cart/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.dede1226.chunk.css.map": "/food-app-cart/static/css/main.dede1226.chunk.css.map",
+    "static/js/2.1946c503.chunk.js.LICENSE.txt": "/food-app-cart/static/js/2.1946c503.chunk.js.LICENSE.txt",
+    "static/media/mealsimage.b6a86aaf.jpg": "/food-app-cart/static/media/mealsimage.b6a86aaf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd4bd878.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.1946c503.chunk.js",
+    "static/css/main.dede1226.chunk.css",
+    "static/js/main.bcfefb8e.chunk.js"
+  ]
+}
